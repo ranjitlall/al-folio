@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Assistant Professor in International Political Economy, [London School of Economics](https://www.lse.ac.uk/)
 
 profile:
   align: right
@@ -17,8 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor in the [Department of International Relations](https://www.lse.ac.uk/International-Relations) at the London School of Economics. Since 2018, I have also been affiliated with [Nuffield College](https://www.nuffield.ox.ac.uk/), University of Oxford, as an Associate Member.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research lies at the intersection of international political economy and international organization, with a particular focus on the performance and asssessment of international institutions and the politics of global financial regulation. I have also conducted research on techniques for analyzing missing data in political science and other disciplines.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my PhD in Government from Harvard University and my BA in Philosophy, Politics, and Economics from the University of Oxford. I spent a year as a Postdoctoral Research Associate at the [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu/) at Princeton University prior to joining the London School of Economics.
+
+I have received the [Merze Tate Award](https://politicalsciencenow.com/ranjit-lall-2019-merze-tate-award-recipient/) for best dissertation in the field of international relations, law, and politics from the American Political Science Association and the [Leamer-Rosenthal Prize for Open Social Science](https://www.bitss.org/people/ranjit-lall/) from the Berkeley Initiative for Transparency in the Social Sciences. Before beginning my graduate studies, I worked as an economist at the Bank of England and as an editorial writer at the Financial Times.
