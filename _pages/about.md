@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Assistant Professor, London School of Economics
+description: Assistant Professor, LSE
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in the [Department of International Relations](https://www.lse.ac.uk/International-Relations) at the London School of Economics.
+I am an Assistant Professor of International Political Economy in the [Department of International Relations](https://www.lse.ac.uk/International-Relations) at the London School of Economics.
 
 My research lies at the intersection of international political economy and international organization. My main interests are the performance and asssessment of international institutions, the politics of global financial regulation, and the analysis of missing data.
 
