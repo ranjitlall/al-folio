@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of International Political Economy at the London School of Economics(https://www.lse.ac.uk/).
+I am an Assistant Professor of International Political Economy at the [London School of Economics](https://www.lse.ac.uk/).
 
 My research interests lie in the areas of international political economy and international institutions. My main interests are the performance of international institutions, the politics of global financial regulation, and the analysis of missing data.
 
