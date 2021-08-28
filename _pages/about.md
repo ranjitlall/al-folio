@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Centre Building 8.01</p>
-    <p>Houghton Street, WC2A 2AE</p>
+    <p>Houghton St, WC2A 2AE</p>
     <p>London, UK</p>
 
 news: true  # includes a list of news items
