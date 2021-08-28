@@ -6,7 +6,7 @@ description: Assistant Professor, LSE
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: bd_network.jpeg
   address: >
     <p>Centre Building 8.01</p>
     <p>Houghton St, WC2A 2AE</p>
