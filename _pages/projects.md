@@ -1,13 +1,13 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: data
+permalink: /data/
 description: A growing collection of your cool projects.
 nav: true
 display_categories: [work, fun]
 horizontal: false
 ---
-<div class="projects">
+<div class="data">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
     {% for category in page.display_categories %}
