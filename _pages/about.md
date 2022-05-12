@@ -5,7 +5,7 @@ permalink: /
 description: Assistant Professor, LSE
 
 profile:
-  align: right
+  align: center
   image: bd_network.jpeg
   address: >
     <p>Centre Building 8.01</p>
