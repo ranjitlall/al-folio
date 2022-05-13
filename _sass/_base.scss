@@ -14,7 +14,7 @@ a, table.table a {
     color: var(--global-theme-color);
     text-decoration: underline;
   }
-  &:hover:after {
+  &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
 }
@@ -51,7 +51,8 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left:   1rem;
+  margin-left:   1.5rem;  // by JS
+  margin-bottom: 0.5rem;  // by JS
   width: 100%;
 
   .address {
@@ -86,6 +87,10 @@ blockquote {
   }
 }
 
+// about page: description under name (by JS)
+.desc{
+	font-size: 0.9rem;
+}
 
 // Navbar customization
 
@@ -94,6 +99,22 @@ blockquote {
   border-bottom: 1px solid $grey-color-light;
   background-color: var(--global-bg-color);
   opacity: 0.95;
+}
+.navbar .dropdown-menu {
+  background-color: var(--global-bg-color);
+  a:not(.active) {
+    color: var(--global-text-color);
+  }
+  a:hover {
+    color: var(--global-hover-color);
+  }
+}
+.dropdown-item {
+  color: var(--global-text-color);
+    &:hover {
+      color: var(--global-hover-color);
+      background-color: var(--global-bg-color);
+    }
 }
 .navbar.navbar-light {
   a {
@@ -181,6 +202,8 @@ blockquote {
 
 .news table th {
   color: var(--global-text-color);
+  width: 7rem;        // JS
+  padding-left: 0.1rem; // JS
 }
 
 // Social (bottom)
