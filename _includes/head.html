@@ -16,12 +16,13 @@
 
 <!-- Open Graph -->
 {% if site.serve_og_meta %}
-<meta property="og:site_name" content="{{ site.description }}" />
-<meta property="og:type" content="object" />
-<meta property="og:title" content="{{ site.name }}" />
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
-<meta property="og:description" content="{{ page.title }}" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Julian Streyczek" />
+<meta property="og:description" content="PhD student in Economics @ Bocconi" />
 <meta property="og:image" content="{%- if page.og_image -%}{{ page.og_image }}{%- else -%}{{ site.og_image }}{%- endif -%}" />
+<meta property="og:image:width" content="1532" />
+<meta property="og:image:height" content="863" />
 {% endif %}
 
 <!-- Bootstrap & MDB -->
@@ -38,7 +39,7 @@
 
 <!-- Styles -->
 {% if site.icon != empty %}
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%22 10 0 110 100 %22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>">
 {% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
@@ -65,7 +66,7 @@
 {% endif %}
 
 {% if site.enable_panelbear_analytics %}
-<!-- Panelbear Analytics - We respect your privacy -->
+<!-- Panelbear Analytics - Privacy-friendly website analytics tool -->
 <script async src="https://cdn.panelbear.com/analytics.js?site={{site.panelbear_analytics}}"></script>
 <script>
     window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
