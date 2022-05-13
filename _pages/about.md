@@ -6,7 +6,7 @@ description: Associate Professor, Oxford
 
 profile:
   align: center
-  image: bd_network.jpeg
+  image: photo_budapest.jpg
   address: >
     <p>St. John's College 8.01</p>
     <p>St. Giles', Oxford OX1 3JP</p>
