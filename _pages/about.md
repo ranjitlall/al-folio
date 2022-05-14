@@ -9,8 +9,7 @@ profile:
   image: armillary.jpeg
   address: >
     <p>St. John's College</p>
-    <p>St. Giles', Oxford</p>
-    <p>OX1 3JP</p>
+    <p>St. Giles', Oxford OX1 3JP</p>
     <p>United Kingdom</p>
 
 news: true  # includes a list of news items
