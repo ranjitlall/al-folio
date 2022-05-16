@@ -1,0 +1,19 @@
+---
+layout: page
+permalink: /data/
+title: data
+description:
+nav: true
+---
+
+**Performance of International Institutions (PIIP) 1.0**
+
+The PIIP is the most comprehensive dataset of 
+
+**Project Performance Database (PPD) 2.1**:
+
+The PPD is the world's largest database on the performance of international development projects. The dataset contains holistic quantitative performance ratings of more than 20,000 unique projects in 183 countries between 1956 and 2016 produced by 12 bilateral and multilateral aid agencies. Version 2.1 was developed by Dan Honig, Ranjit Lall, and Brad Parks, and undergirds our 2022 _American Journal of Political Science_ article ["When Does Transparency Improve Institutional Performance?"](https://ranjitlall.github.io/assets/pdf/Honig,%20Lall,%20and%20Parks%202022%20AJPS%20online.pdf). We hope the PPD 2.1 will be of use to scholars of international organizations, aid effectiveness, organizational behavior, and public management, among other topics. The dataset is generously hosted by [AidData](https://www.aiddata.org/data/project-performance-database-ppd-version-2-0); the ZIP archive contains the dataset in CSV and DTA format as well as a detailed codebook.
+
+**Other datasets*
+
+The datasets used in most of my other articles can be found on the [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/harvard/?q=ranjit+lall).
