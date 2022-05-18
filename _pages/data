@@ -1,0 +1,16 @@
+---
+layout: page
+permalink: /data/
+title: data
+description:
+nav: true
+---
+
+**PIIP: fast and accurate missing-data imputation with deep learning**
+
+
+
+
+**Project Performance Database (PPD) 2.1**
+
+The PPD is the world's largest database of international development projects that includes quantitative ratings of holistic project performance. Version 2.0, developed jointly with Dan Honig and Bradley Parks, undergirds our 2022 _American Journal of Political Science_ article "When Does Transparency Improve Institutional Performance?" The dataset contains evaluations of more than 20,000 unique foreign aid projects in 183 countries between 1956 and 2016 by 12 bilateral and multilateral aid agencies. A full ZIP archive, including the data in CSV and DTA format and a detailed codebook, can be accessed from [AidData](https://www.aiddata.org/data/project-performance-database-ppd-version-2-0).
