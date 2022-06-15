@@ -8,7 +8,7 @@ nav: true
 
 **[MIDASverse](https://github.com/MIDASverse): fast and accurate missing-data imputation with deep learning**
 
-<img align="right" src=/assets/img/midasverse.png width="170" height="170">
+<img align="right" src=/assets/img/midasverse.png width="150" height="150">
 
 The MIDASverse, developed with Thomas Robinson and Alex Stenlake, is a suite of software packages for efficiently imputing missing data using deep learning methods in Python (**[MIDASpy](https://github.com/MIDASverse/MIDASpy)**) and R (**[rMIDAS](https://github.com/MIDASverse/rMIDAS)**). The packages implement a recently developed approach to multiple imputation known as MIDAS, which involves introducing additional missing values into the dataset, attempting to reconstruct these values with a type of unsupervised neural network known as a denoising autoencoder, and using the resulting model to draw imputations of originally missing data. These steps are executed by a fast and flexible algorithm that offers significant accuracy and efficiency advantages over other multiple imputation strategies, particularly when applied to large datasets with complex features.
 
