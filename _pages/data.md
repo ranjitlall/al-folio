@@ -4,7 +4,6 @@ permalink: /data/
 title: data
 description:
 nav: true
-image: midasverse.png
 ---
 
 **Performance of International Institutions Project (PIIP) 1.0**, hosted on [GitHub](https://github.com/ranjitlall/piip)
