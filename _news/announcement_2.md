@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-09-03 16:11:00-0400
+date: 2022-04-03 16:11:00-0400
 inline: true
 ---
 
-I am joining the University of Oxford as an Associate Professor in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) in September 2022
+I will be joining the University of Oxford as an Associate Professor of International Political Economy in September 2022
