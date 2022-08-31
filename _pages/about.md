@@ -8,7 +8,7 @@ profile:
   align: center
   image: photo_budapest.jpg
   address: >
-    <p>St. John's College</p>
+    <p>N4-3 St. John's College</p>
     <p>St. Giles', Oxford</p>
     <p>OX1 3JP</p>
     <p>United Kingdom</p>
