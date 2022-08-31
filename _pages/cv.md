@@ -2,6 +2,6 @@
 layout: page
 permalink: assets/pdf/CV_2022_Web.pdf
 title: cv
-description:
+description: cv
 nav: true
 ---
