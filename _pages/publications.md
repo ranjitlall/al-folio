@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: articles and book chapters
+permalink: /research/
+title: research
+description: 
 years: [2022, 2021, 2020, 2017, 2016, 2015, 2012, 2011]
 nav: true
 ---
