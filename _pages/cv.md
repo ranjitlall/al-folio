@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: assets/pdf/CV_2022_Website.pdf
+permalink: assets/pdf/CV_Website_0922.pdf
 title: cv
 description: 
 nav: true
