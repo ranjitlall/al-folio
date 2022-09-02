@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /software/
-title: software
+title: softwar
 description:
 nav: true
 ---
