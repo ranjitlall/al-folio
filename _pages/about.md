@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Associate Professor of International Political Economy at the University of Oxford.
+I am an Associate Professor of International Political Economy and a Fellow of St. John's College at the University of Oxford.
 
 My research focuses on the political economy of international cooperation, development, and technological change. I also have methodological interests in machine learning and the analysis of missing data. My forthcoming book _Making International Institutions Work_ seeks to explain differences in the performance of international institutions.
 
