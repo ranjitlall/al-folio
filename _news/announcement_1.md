@@ -4,4 +4,4 @@ date: 2021-09-09 15:59:00-0400
 inline: true
 ---
 
-I am excited to be spending the 2021/22 academic year as a Visiting Fellow in UCSD's [Department of Political Science](https://polisci.ucsd.edu/)
+My book _Making International Institutions Work: The Politics of Performance_[https://ranjitlall.github.io/book/] will be published by Cambridge University Press in January 2023.
