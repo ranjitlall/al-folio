@@ -14,7 +14,7 @@ International institutions are essential for tackling many of the most urgent ch
 ![Alt text](assets/img/Making International Institutions Work_Cover.png)
 
 
-** Contents **
+**Contents**
 
 1. International Institutions and the Performance Puzzle
 2. A Theory of Institutional Performance
@@ -24,7 +24,7 @@ International institutions are essential for tackling many of the most urgent ch
 6. Effective but Anaccountable?: Autonomy and the Politics of Reform
 7. The Politics of Performance: Contributions and Implications
 
-** Praise **
+**Praise**
 
 "A fascinating book that stands much of the conventional wisdom on what makes for effective international governance on its head. Ranjit Lall has written a deeply original and meticulously researched book that sets the standard for future work in this area."
 
