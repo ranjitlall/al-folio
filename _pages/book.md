@@ -12,6 +12,7 @@ _**Making International Institutions Work: The Politics of Performance**_
 
 International institutions are essential for tackling many of the most urgent challenges facing the world, from pandemics to humanitarian crises, yet we know little about when they succeed, when they fail, and why. This book proposes a new theory of institutional performance and tests it using a diverse array of sources, including the most comprehensive dataset on the topic. Challenging popular characterizations of international institutions as 'runaway bureaucracies,' Ranjit Lall argues that the most serious threat to performance comes from the pursuit of narrow political interests by states – paradoxically, the same actors who create and give purpose to institutions. The discreet operational processes through which international bureaucrats cultivate and sustain autonomy vis-à-vis governments, he contends, are critical to making institutions 'work.' The findings enhance our understanding of international cooperation, public goods, and organizational behavior while offering practical lessons to policymakers, NGOs, businesses, and citizens interested in improving institutional effectiveness.
 
+
 <img align="right" src="https://user-images.githubusercontent.com/35332935/202039275-5e2f34a2-84af-4020-b843-ea42ad7e17a2.png" width="225">
 
 **Contents**
