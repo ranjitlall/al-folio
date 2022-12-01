@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-_**Making International Institutions Work: The Politics of Performance**_
+**_Making International Institutions Work: The Politics of Performance_**
 
 (Cambridge University Press, 2023)
 
