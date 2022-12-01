@@ -22,7 +22,7 @@ International institutions are essential for tackling many of the most urgent ch
 2. A Theory of Institutional Performance
 3. Learning from Assessment: Quantitative Tests on Fifty-Four institutions
 4. Performing for Scraps: Comparing the FAO, the WFP, and IFAD
-5. The performance of Life: Comparing the WHO, UNAIDS, Gavi, and GFATM
+5. The Performance of Life: Comparing the WHO, UNAIDS, Gavi, and GFATM
 6. Effective but Anaccountable? Autonomy and the Politics of Reform
 7. The Politics of Performance: Contributions and Implications
 
