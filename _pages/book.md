@@ -53,5 +53,5 @@ _Making International Institutions Work_ introduces the most comprehensive datas
 
 **Book Launch**
 
-The book launch for _Making International Institutions Work_, featuring Joseph Stiglitz and Raj Chetty, took place on 16 May 2023 at Nuffield College, University of Oxford.
+The book launch for _Making International Institutions Work_, featuring Joseph Stiglitz and Raj Chetty, took place on 16 May 2023 at Nuffield College, University of Oxford (see poster).
 
