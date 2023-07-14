@@ -8,7 +8,7 @@ nav: true
 
 **Performance of International Institutions Project (PIIP) 1.0**, [hosted on GitHub](https://github.com/ranjitlall/piip)
 
-The PIIP is the most comprehensive dataset on the performance of international institutions. It includes performance ratings of 54 major institutions between 2008 and 2018 by the governments of Australia, Denmark, the Netherlands, Sweden, and the UK and the Multilateral Organization Performance Assessment Network (MOPAN). A wealth of additional information on these institutions, including on their policy autonomy, governance tasks, and operational partnerships, is also provided. The dataset, which is provided in CSV format and accompanied by a detailed codebook, is introduced in my book _Making International Institutions Work_.
+The PIIP is the most comprehensive dataset on the performance of international institutions. It includes performance ratings of 54 major institutions between 2008 and 2018 by the governments of Australia, Denmark, the Netherlands, Sweden, and the UK and the Multilateral Organization Performance Assessment Network (MOPAN). A wealth of additional information on these institutions, including on their policy autonomy, governance tasks, and operational partnerships, is also provided. The dataset, which is provided in CSV format and accompanied by a detailed codebook, is introduced in my book [_Making International Institutions Work_](https://ranjitlall.github.io/book/).
 
 **Project Performance Database (PPD) 2.1**, [hosted by AidData](https://www.aiddata.org/data/project-performance-database-ppd-version-2-0)
 
