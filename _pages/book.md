@@ -12,14 +12,8 @@ _**Making International Institutions Work: The Politics of Performance**_
 
 [Cambridge University Press](https://www.cambridge.org/core/books/making-international-institutions-work/2B354270D50B9471D04529CD8D5C98F7), 2023
 
-**Book Launch**
-
-A book launch event for _Making International Institutions Work_, featuring Joseph Stiglitz and Raj Chetty, will take place on 16 May 2023 at Nuffield College, University of Oxford, at 4.30PM in the large lecture room. Sign up for the event [here](https://www.eventbrite.com/e/book-launch-making-international-institutions-work-tickets-625248253357).
-
 **Abstract**
 International institutions are essential for tackling many of the most urgent challenges facing the world, from pandemics to humanitarian crises, yet we know little about when they succeed, when they fail, and why. This book proposes a new theory of institutional performance and tests it using a diverse array of sources, including the most comprehensive dataset on the topic. Challenging popular characterizations of international institutions as 'runaway bureaucracies,' Ranjit Lall argues that the most serious threat to performance comes from the pursuit of narrow political interests by states – paradoxically, the same actors who create and give purpose to institutions. The discreet operational processes through which international bureaucrats cultivate and sustain autonomy vis-à-vis governments, he contends, are critical to making institutions 'work.' The findings enhance our understanding of international cooperation, public goods, and organizational behavior while offering practical lessons to policymakers, NGOs, businesses, and citizens interested in improving institutional effectiveness.
-
-<img align="right" src="https://user-images.githubusercontent.com/35332935/234845778-463e0534-a059-43f1-a7f9-80f3dc4c2240.png" width="225">
 
 **Contents**
 
@@ -41,4 +35,21 @@ International institutions are essential for tackling many of the most urgent ch
 
 --- Robert Keohane, Princeton University
 
+"Why do some international institutions perform well at providing critical public goods for the world’s people, while others fail? Lall provides a powerful explanation using new data from multiple sources. International institutions need a minimal level of autonomy from the states that created them to function well, and they can attain this by employing the same clever strategies that people and governments follow: making alliances and exploiting informational advantages. His book provides a clear guide for scholars and policymakers on how to make international institutions work for the world."
+
+--- Helen Milner, Princeton University
+
+""The path to more effective international institutions lies not through formal institutional rules but through international organizations developing operational advantages that states need but cannot interfere with, coupled with pursuing projects through informal partnerships with transgovernmental networks and nonstate actors.  Ranjit Lall supports his persuasive argument with extensive data and case studies explaining the comparative performance of a wide range of international organizations."
+
+--- Duncan Snidal, University of Oxford
+
+<img align="right" src="https://user-images.githubusercontent.com/35332935/234845778-463e0534-a059-43f1-a7f9-80f3dc4c2240.png" width="225">
+
+**Dataset**
+
+_Making International Institutions Work_ introduces the most comprehensive dataset on the performance of international institutions: the **Performance of International Institutions Project (PIIP)**. The PIIP includes performance ratings of 54 major institutions between 2008 and 2018 by the governments of Australia, Denmark, the Netherlands, Sweden, and the UK and the Multilateral Organization Performance Assessment Network (MOPAN). A wealth of additional information on these institutions, including on their policy autonomy, governance tasks, and operational partnerships, is also provided. For further details, see my [datasets](https://ranjitlall.github.io/data/).
+
+**Book Launch**
+
+The book launch for _Making International Institutions Work_, featuring Joseph Stiglitz and Raj Chetty, took place on 16 May 2023 at Nuffield College, University of Oxford, at 4.30PM in the large lecture room.
 
