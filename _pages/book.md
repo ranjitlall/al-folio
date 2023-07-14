@@ -41,7 +41,7 @@ International institutions are essential for tackling many of the most urgent ch
 
 --- Helen Milner, Princeton University
 
-""The path to more effective international institutions lies not through formal institutional rules but through international organizations developing operational advantages that states need but cannot interfere with, coupled with pursuing projects through informal partnerships with transgovernmental networks and nonstate actors.  Ranjit Lall supports his persuasive argument with extensive data and case studies explaining the comparative performance of a wide range of international organizations."
+"The path to more effective international institutions lies not through formal institutional rules but through international organizations developing operational advantages that states need but cannot interfere with, coupled with pursuing projects through informal partnerships with transgovernmental networks and nonstate actors.  Ranjit Lall supports his persuasive argument with extensive data and case studies explaining the comparative performance of a wide range of international organizations."
 
 --- Duncan Snidal, University of Oxford
 
