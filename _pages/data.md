@@ -10,13 +10,21 @@ nav: true
 
 The World of International Non-Governmental Organizations (WINGO) database is a comprehensive catalogue of formal international non-governmental organizations (INGOs). The dataset, which encompasses more than 2,600 organizations, is based primarily on the Yearbook of International Organizations, a reference work on international organizations published by the Union of International Associations (UIA). It additionally includes original information on INGOs’ founding dates, dissolution dates, headquarters locations, and issue areas. The data, available in CSV format and accompanied by a codebook, are introduced in my _American Journal of Political Science_ article ["Making Global Governance Accountable: Civil Society, States, and the Politics of Reform."](https://ranjitlall.github.io/assets/pdf/Lall%202023%20AJPS%20Online.pdf)
 
+<img align="right" src="https://github.com/ranjitlall/ranjitlall.github.io/assets/35332935/b1e7b0f4-87fa-4a66-a008-d811d081abc0" width="225">
+
 **Accountability in Global Governance (AGG) Database**, [hosted on GitHub](https://github.com/ranjitlall/agg)
 
 The AGG database measures the strength of formal accountability mechanisms possessed by major international institutions. The dataset covers five types of mechanisms --- transparency, evaluation, redress, investigation, and participation mechanisms --- and covers 52 significant international institutions between 1960 and 2018. It also includes a number of additional variables that may be of interest to scholars of accountability in global governance, such as institutions’ governance tasks, decision-making procedures, financial resources, and media coverage. The data, available in CSV format and accompanied by a codebook, are introduced in my _American Journal of Political Science_ article ["Making Global Governance Accountable: Civil Society, States, and the Politics of Reform."](https://ranjitlall.github.io/assets/pdf/Lall%202023%20AJPS%20Online.pdf)
 
+This dataset is discussed in my AidData blog post ["How effective and accountable are international development organizations?"](https://www.aiddata.org/blog/how-effective-and-accountable-are-international-development-organizations)
+
 **Performance of International Institutions Project (PIIP)**, [hosted on GitHub](https://github.com/ranjitlall/piip)
 
 The PIIP is the most comprehensive dataset on the performance of international institutions. It includes performance ratings of 54 major institutions between 2008 and 2018 by the governments of Australia, Denmark, the Netherlands, Sweden, and the UK and the Multilateral Organization Performance Assessment Network (MOPAN). A wealth of additional information on these institutions, including on their policy autonomy, governance tasks, and operational partnerships, is also provided. The dataset, which is provided in CSV format and accompanied by a detailed codebook, is introduced in my book [_Making International Institutions Work_](https://ranjitlall.github.io/book/).
+
+<img align="right" src="https://github.com/ranjitlall/ranjitlall.github.io/assets/35332935/4445c212-b842-4f75-a610-fb0b41bb3a8c" width="225">
+
+This dataset is discussed in my AidData blog post ["How effective and accountable are international development organizations?"](https://www.aiddata.org/blog/how-effective-and-accountable-are-international-development-organizations)
 
 **Project Performance Database (PPD) 2.1**, [hosted by AidData](https://www.aiddata.org/data/project-performance-database-ppd-version-2-0)
 
