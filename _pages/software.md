@@ -15,3 +15,5 @@ The MIDASverse, developed with Thomas Robinson and Alex Stenlake, is a set of so
 On MIDAS, the method underlying the software, see:
 
 Lall, Ranjit, and Thomas Robinson. 2022. "[The MIDAS Touch: Accurate and Scalable Missing-Data Imputation with Deep Learning](https://ranjitlall.github.io/assets/pdf/Lall%20and%20Robinson%202022%20PA.pdf)." _Political Analysis_ 30, no. 2: 179-196.
+
+Lall, Ranjit, and Thomas Robinson. 2023. "Efficient Multiple Imputation for Diverse Data in Python and R: MIDASpy and rMIDAS." _Journal of Statistical Software_ 107, no. 9: 1-38. doi:10.18637/jss.v107.i09. [Published version](https://ranjitlall.github.io/assets/pdf/Lall%20and%20Robinson%202023%20JSS.pdf).
